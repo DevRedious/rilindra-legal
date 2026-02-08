@@ -12,13 +12,13 @@ La présente politique décrit les données collectées par le bot Discord Rilin
 
 ---
 
-## 1. Responsable du traitement
+## 1. Responsable du traitement :
 
 Le traitement des données est effectué sous la responsabilité de l'équipe d'administration du serveur Discord ASA Rilindra. Pour toute question, contactez cette équipe.
 
 ---
 
-## 2. Données collectées
+## 2. Données collectées :
 
 ### 2.1 Données liées à votre compte Discord
 
@@ -53,7 +53,7 @@ Les actions des administrateurs (ajout/retrait d'argent, modifications de tribus
 
 ---
 
-## 3. Base légale et finalités
+## 3. Base légale et finalités :
 
 Le traitement repose sur :
 
@@ -69,7 +69,7 @@ Les données sont utilisées pour :
 
 ---
 
-## 4. Destinataires et sous-traitants
+## 4. Destinataires et sous-traitants :
 
 | Destinataire | Données concernées | Localisation |
 |--------------|-------------------|--------------|
@@ -81,7 +81,7 @@ Les données ne sont ni vendues ni cédées à des tiers à des fins commerciale
 
 ---
 
-## 5. Durée de conservation
+## 5. Durée de conservation :
 
 | Type de données | Durée |
 |-----------------|-------|
@@ -94,7 +94,7 @@ Les données peuvent être conservées plus longtemps si une obligation légale 
 
 ---
 
-## 6. Vos droits (RGPD)
+## 6. Vos droits (RGPD) :
 
 Conformément au Règlement général sur la protection des données (RGPD), vous disposez des droits suivants :
 
@@ -113,7 +113,7 @@ Vous pouvez également introduire une réclamation auprès de la CNIL (Commissio
 
 ---
 
-## 7. Sécurité
+## 7. Sécurité :
 
 - Les accès à la base de données sont restreints et authentifiés
 - Les communications vers Supabase et Firebase sont chiffrées (HTTPS/TLS)
@@ -122,18 +122,18 @@ Vous pouvez également introduire une réclamation auprès de la CNIL (Commissio
 
 ---
 
-## 8. Transferts hors UE
+## 8. Transferts hors UE :
 
 Supabase et Firebase peuvent héberger des données dans des régions hors Union européenne. Ces prestataires appliquent des garanties appropriées (clauses types, certifications) conformément au RGPD. Pour plus de détails, consultez leurs politiques de confidentialité respectives.
 
 ---
 
-## 9. Modifications
+## 9. Modifications :
 
 Cette politique peut être modifiée à tout moment. Les changements importants seront portés à la connaissance des utilisateurs via le serveur Discord. La poursuite de l'utilisation du bot après modification vaut acceptation de la politique mise à jour.
 
 ---
 
-## 10. Contact
+## 10. Contact :
 
 Pour toute question relative à cette politique de confidentialité ou à l'exercice de vos droits : contactez l'équipe d'administration du serveur Discord ASA Rilindra.
