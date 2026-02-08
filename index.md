@@ -6,8 +6,8 @@ permalink: /
 
 # EN
 
-- [Terms of Service](terms/)
-- [Privacy Policy](privacy/)
+- [Terms of Service](terms_en/)
+- [Privacy Policy](privacy_en/)
 
 # FR
 

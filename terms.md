@@ -6,7 +6,7 @@ permalink: /terms/
 
 # EN
 
-- [Terms of Service](en/)
+- [Terms of Service](terms_en/)
 
 # FR
 
