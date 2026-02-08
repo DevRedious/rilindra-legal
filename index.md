@@ -4,5 +4,12 @@ title: Documents légaux
 permalink: /
 ---
 
-- [Terms of Service / CGU](terms/)
-- [Privacy Policy / Politique de confidentialité](privacy/)
+# EN
+
+- [Terms of Service](terms/)
+- [Privacy Policy](privacy/)
+
+# FR
+
+- [CGU](fr_terms/)
+- [Politique de confidentialité](fr_privacy/)
