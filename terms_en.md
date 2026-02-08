@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-permalink: /terms/en/
+permalink: /terms_en/
 ---
 
 ## Terms of Service – Rilindra Bot

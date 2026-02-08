@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: /privacy/en/
+permalink: /privacy_en/
 ---
 
 ## Privacy Policy – Rilindra Bot
