@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # EN
 
-- [Privacy Policy](privacy/en/)
+- [Privacy Policy](en/)
 
 # FR
 
